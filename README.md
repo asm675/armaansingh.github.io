@@ -1,7 +1,7 @@
 #### Technical Skills: Python, SQL, AWS. Apache Spark, Kafka, Docker, Terraform, Jenkins. 
 
 ## Education
-- Honours B.Sc., Computer Science | University of Toronto (June 2025)
+Honours B.Sc., Computer Science | University of Toronto (June 2025)
 
 ## Work Experience
 ### Data Engineer Intern @ University Health Network (_Sept 2023 – August 2024_)**
