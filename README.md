@@ -4,7 +4,7 @@
 Honours B.Sc., Computer Science | University of Toronto (June 2025)
 
 ## Work Experience
-### Data Engineer Intern @ University Health Network (_Sept 2023 – August 2024_)**
+### **Data Engineer Intern @ University Health Network (_Sept 2023 – August 2024_)**
 - Developed and maintained databases, improving data organization and accessibility.
 - Enhanced daily Python script performance, achieving substantial efficiency gains by reducing runtime by
 approximately 70%. Collaborated with a team of developers to migrate the research dataset generation
@@ -27,7 +27,7 @@ Amazon Athena for data transformation and Redshift for analytics.
 multiple stages of the data pipeline.
 
 ### Ontario Parks Guided Hike | HTML, CSS, React, Django
-[Project Link](https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/asm675/Ontario-Parks-Guided-Hike.git)
+[Project Link](https://github.com/asm675/Ontario-Parks-Guided-Hike.git)
 
 - Developed and deployed an interactive web application for Arrowhead Park, promoting visitor engagement and
 exploration through an intuitive map interface and dynamic point of interest system.
@@ -37,7 +37,7 @@ experience and providing real-time information about park attractions.
 platforms, emphasizing functionality to cater to a broad range of users.
 
 ### Kings Conquest | Java
-[Project Link](https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/asm675/Raja-s-Conquest.git)
+[Project Link](https://github.com/asm675/Raja-s-Conquest.git)
 - Collaborated with a team of 7 to develop and implement an RPG game in Java.
 - Created a text-based RPG game using an OOP approach in Java within a team of seven people
 - Implemented Design patterns and clean architecture to enhance readability and to separate business logic.
