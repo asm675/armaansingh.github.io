@@ -27,7 +27,7 @@ Amazon Athena for data transformation and Redshift for analytics.
 multiple stages of the data pipeline.
 
 ### Ontario Parks Guided Hike | HTML, CSS, React, Django
-[Project Link](https://www.mdpi.com/1424-8220/22/11/4240)
+[Project Link](https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/asm675/Ontario-Parks-Guided-Hike.git)
 
 - Developed and deployed an interactive web application for Arrowhead Park, promoting visitor engagement and
 exploration through an intuitive map interface and dynamic point of interest system.
@@ -37,19 +37,19 @@ experience and providing real-time information about park attractions.
 platforms, emphasizing functionality to cater to a broad range of users.
 
 ### Kings Conquest | Java
-[Project Link](https://www.mdpi.com/1424-8220/22/11/4240)
+[Project Link](https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/asm675/Raja-s-Conquest.git)
 - Collaborated with a team of 7 to develop and implement an RPG game in Java.
 - Created a text-based RPG game using an OOP approach in Java within a team of seven people
 - Implemented Design patterns and clean architecture to enhance readability and to separate business logic.
 - Designed a simple AI based on RNG and a fitting testing coverage.
 
 ### Top 3 (IMDB Movie Recommendation System): | Python
-[Project Link](https://www.mdpi.com/1424-8220/22/11/4240)
+[Project Link](https://github.com/asm675/Top-3-IMDB-Recommendation-System-.git)
 -  Collaborated with a team of 4 to develop and implement a Movie Recommendation System in Python
 -  Developed an interactive GUI interface which recommended top 3 movies based on the user’s movie history.
 -  Implemented a recommendation algorithm aimed at suggesting relevant items to users using Graphs.
 
 
 ## Certifications
-- AWS Certified Cloud Practitioner Certificate
+- AWS Certified Cloud Practitioner Certificate [Link](https://www.credly.com/badges/9b86d31a-f508-49a8-89c2-48092bafb7b5/public_url)
 - DevOps Beginners to Advanced — Decoding DevOps with Projects
