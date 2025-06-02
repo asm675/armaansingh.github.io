@@ -1,19 +1,19 @@
 #### Technical Skills: Python, SQL, AWS. Apache Spark, Kafka, Docker, Terraform, Jenkins. 
 
 ## Education
-- Honours B.Sc., Computer Science (Specialist) | University of Toronto (June 2025)
+- Honours B.Sc., Computer Science | University of Toronto (June 2025)
 
 ## Work Experience
 **Data Engineer Intern @ University Health Network (_Sept 2023 – August 2024_)**
--Developed and maintained databases, improving data organization and accessibility.
--Enhanced daily Python script performance, achieving substantial efficiency gains by reducing runtime by
+- Developed and maintained databases, improving data organization and accessibility.
+- Enhanced daily Python script performance, achieving substantial efficiency gains by reducing runtime by
 approximately 70%. Collaborated with a team of developers to migrate the research dataset generation
 engine to Python.
--Optimized data retrieval processes, demonstrating a proactive approach to enhance efficiency and reporting
+- Optimized data retrieval processes, demonstrating a proactive approach to enhance efficiency and reporting
 capabilities.
--Provided technical support by investigating and resolving issues related to system functionalities and data
+- Provided technical support by investigating and resolving issues related to system functionalities and data
 integration.
--Contributed to two abstracts, one submitted to the Canadian Society of Nephrology and the other to the
+- Contributed to two abstracts, one submitted to the Canadian Society of Nephrology and the other to the
 American Society of Nephrology (ASN) conference.
 
 ## Projects
