@@ -4,7 +4,7 @@
 - Honours B.Sc., Computer Science | University of Toronto (June 2025)
 
 ## Work Experience
-###Data Engineer Intern @ University Health Network (_Sept 2023 – August 2024_)**
+### Data Engineer Intern @ University Health Network (_Sept 2023 – August 2024_)**
 - Developed and maintained databases, improving data organization and accessibility.
 - Enhanced daily Python script performance, achieving substantial efficiency gains by reducing runtime by
 approximately 70%. Collaborated with a team of developers to migrate the research dataset generation
